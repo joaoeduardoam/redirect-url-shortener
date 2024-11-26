@@ -12,7 +12,7 @@ redirecionem para URLs originais, com um tempo de expiração configurável. O s
 composto por duas funções Lambda: a primeira função é responsável por gerar e armazenar os
 URLs encurtados; a segunda função gerencia o redirecionamento do link.
 
-### Primeira Função Lambda - Encurtador de URL 
+### Primeira Função Lambda - Encurtador de URL https://github.com/joaoeduardoam/url-shortner
   - Responsável por gerar e armazenar os links encurtados em um bucket S3, junto com informações
 como a URL original e o tempo de expiração
 
